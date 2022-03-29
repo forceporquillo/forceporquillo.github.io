@@ -15,7 +15,7 @@ tech:
 showInProjects: true
 ---
 
-🔐 A private End-to-End Encrypted Messaging Application inspired from Signal, WhatsApp, and Viber. At its core it integrates the [Signal Protocol](https://signal.org/docs/) cryptographic modules to achieve the E2EE messaging and secure communication.
+🔐 A private End-to-End Encrypted Messaging Application inspired from Signal, WhatsApp, and Viber. At its core, it integrates the [Signal Protocol](https://signal.org/docs/) cryptographic modules to achieve the E2EE messaging and secure communication.
 
 <!-- <br><br>
 Implemented using the MVI on top of MVVM architecture, Repository pattern, custom Netty TCP Sockets, Coroutines, RxKotlin, ProtoBuf, WorkManager, Retrofit, OkHttp, Room, ProtoDataStore, Zxing, and Glide. -->
