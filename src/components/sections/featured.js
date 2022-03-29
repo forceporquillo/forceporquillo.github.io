@@ -47,8 +47,8 @@ const StyledDescription = styled.div`
   position: relative;
   z-index: 2;
   padding: 25px;
-  background-color: ${colors.lightNavy};
-  color: ${colors.lightSlate};
+  background-color: #ffffff;
+  color: ${colors.slate};
   font-size: ${fontSizes.lg};
   border-radius: ${theme.borderRadius};
   ${media.thone`
@@ -113,13 +113,13 @@ const StyledFeaturedImg = styled(Img)`
   border-radius: ${theme.borderRadius};
   position: relative;
   mix-blend-mode: multiply;
-  filter: grayscale(100%) contrast(1) brightness(90%);
-  ${media.tablet`
-    object-fit: cover;
-    width: auto;
-    height: 100%;
-    filter: grayscale(100%) contrast(1) brightness(80%);
-  `};
+  // filter: grayscale(100%) contrast(1) brightness(90%);
+  // ${media.tablet`
+  //   object-fit: cover;
+  //   width: auto;
+  //   height: 100%;
+  //   filter: grayscale(100%) contrast(1) brightness(80%);
+  // `};
 `;
 const StyledImgContainer = styled.a`
   ${mixins.boxShadow};
@@ -127,37 +127,38 @@ const StyledImgContainer = styled.a`
   grid-row: 1 / -1;
   position: relative;
   z-index: 1;
-  background-color: ${colors.green};
+  background: transparent;
+  filter: none;
   border-radius: ${theme.radius + 1}px;
   transition: ${theme.transition};
-  ${media.tablet`height: 100%;`};
-  ${media.thone`
-    grid-column: 1 / -1;
-    opacity: 0.25;
-  `};
-  &:hover,
-  &:focus {
-    background: transparent;
-    &:before,
-    ${StyledFeaturedImg} {
-      background: transparent;
-      filter: none;
-    }
-  }
-  &:before {
-    content: '';
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 3;
-    transition: ${theme.transition};
-    background-color: ${colors.navy};
-    mix-blend-mode: screen;
-  }
+  // ${media.tablet`height: 100%;`};
+  // ${media.thone`
+  //   grid-column: 1 / -1;
+  //   opacity: 0.25;
+  // `};
+  // &:hover,
+  // &:focus {
+  //   background: transparent;
+  //   &:before,
+  //   ${StyledFeaturedImg} {
+  //     background: transparent;
+  //     filter: none;
+  //   }
+  // }
+  // &:before {
+  //   content: '';
+  //   position: absolute;
+  //   width: 100%;
+  //   height: 100%;
+  //   top: 0;
+  //   left: 0;
+  //   right: 0;
+  //   bottom: 0;
+  //   z-index: 3;
+  //   transition: ${theme.transition};
+  //   background-color: transparent;
+  //   mix-blend-mode: screen;
+  // }
 `;
 const StyledProject = styled.div`
   display: grid;
@@ -217,13 +218,11 @@ const Featured = ({ data }) => {
   return (
     <StyledContainer id="projects">
       <Heading ref={revealTitle}>Some Things I&apos;ve Built</Heading>
-
       <div>
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
             const { frontmatter, html } = node;
-            const { external, title, tech, github, cover } = frontmatter;
-
+            const { external, title, tech, github, cover, playstore } = frontmatter;
             return (
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
                 <StyledContent>
@@ -257,6 +256,15 @@ const Featured = ({ data }) => {
                         rel="nofollow noopener noreferrer"
                         aria-label="GitHub Link">
                         <FormattedIcon name="GitHub" />
+                      </a>
+                    )}
+                    {playstore && (
+                      <a
+                        href={playstore}
+                        target="_blank"
+                        rel="nofollow noopener noreferrer"
+                        aria-label="External Link">
+                        <FormattedIcon name="PlayStore" />
                       </a>
                     )}
                     {external && (

@@ -1,12 +1,17 @@
 ---
-title: 'Hello World! My name is'
-name: 'Chandrika Deb'
-subtitle: 'I love exploring new things!'
-buttonText: 'Contact Me'
+title: 'Hi, my name is'
+name: 'Aljan Porquillo'
+subtitle: 'I love building things around Android.'
+buttonText: 'Hire Me!'
 ---
 
-I'm an India based software developer with a goal-driven creative mindset and passion for learning and innovating.
+A self-motivated, performance-driven, and a detail-oriented Android enthusiast with a strong fundamental knowledge of software designs, object-oriented concepts, development, and testing.
 
-Currently working as a Software Developer at [Amdocs](https://www.amdocs.com/) and as a Freelance Content Writer for [Pepper Content](https://www.peppercontent.io).
+Currently, I'm an undergraduate student from [FEU Institute of Technology](https://web.facebook.com/feueac), taking Bachelor of Science in Computer Science with a Specialization in Software Engineering.
 
-Outside work, I occasionally blog on [Medium](https://chandrikadeb7.medium.com/). Off-screen, I sketch my thoughts [here](https://pin.it/4W1Rxtj)!
+<br>
+
+Want to turn your ideas into apps?
+
+<!-- On my freetime, I do a lot of personal projects where I experiment different technologies, most primarily in the field of Mobile Development, Cloud Technologies, and Backend Infrastructures.
+I also often contribute and gave back to the open-source community by contributing and engaging in a community discussion, adding PR features, submitting issues, and peer code reviews. -->
