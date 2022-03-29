@@ -60,11 +60,11 @@ Yes, you can fork this repo. Please give proper credit by linking back to [britt
 
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
-| Navy           | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) `#FFFFFF` |
-| Light Navy     | ![#172a45](https://via.placeholder.com/10/0a192f?text=+) `#FFFFFF` |
-| Lightest Navy  | ![#303C55](https://via.placeholder.com/10/303C55?text=+) `#729df3` |
-| Slate          | ![#8892b0](https://via.placeholder.com/10/8892b0?text=+) `#1B1B1B` |
-| Light Slate    | ![#a8b2d1](https://via.placeholder.com/10/a8b2d1?text=+) `#7398ff` |
-| Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#2C6BED` |
+| Navy           | ![#0a192f](https://via.placeholder.com/10/FFFFFF?text=+) `#FFFFFF` |
+| Light Navy     | ![#172a45](https://via.placeholder.com/10/FFFFFF?text=+) `#FFFFFF` |
+| Lightest Navy  | ![#303C55](https://via.placeholder.com/10/729df3?text=+) `#729df3` |
+| Slate          | ![#8892b0](https://via.placeholder.com/10/1B1B1B?text=+) `#1B1B1B` |
+| Light Slate    | ![#a8b2d1](https://via.placeholder.com/10/7398ff?text=+) `#7398ff` |
+| Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/2C6BED?text=+) `#2C6BED` |
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
-| Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#2C6BED` |
+| Green          | ![#64ffda](https://via.placeholder.com/10/2C6BED?text=+) `#2C6BED` |
