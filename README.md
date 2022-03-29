@@ -5,7 +5,7 @@
   Portfolio Website Version
 </h1>
 <p align="center">
-  This portfolio template is a forked from of <a href="https://github.com/chandrikadeb7/chandrikadeb7.github.io" target="_blank">https://github.com/chandrikadeb7/chandrikadeb7.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+Portfolio template is a forked from <a href="https://github.com/chandrikadeb7/chandrikadeb7.github.io" target="_blank">https://github.com/chandrikadeb7/chandrikadeb7.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>.
 </p>
 
 <div align="center">
