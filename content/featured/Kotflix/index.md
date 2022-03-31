@@ -2,8 +2,8 @@
 date: '6'
 title: 'Kotflix'
 cover: 'kotflix.png'
-github: 'https://github.com/chandrikadeb7/Girlscript-Twitter-Bot'
-external: 'https://twitter.com/girlscript_bot'
+github: ''
+external: ''
 playstore: ''
 tech:
   - Kotlin
