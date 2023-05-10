@@ -7,7 +7,7 @@ buttonText: 'Hire Me!'
 
 A self-motivated, performance-driven, and a detail-oriented JVM and Android enthusiast with a strong fundamental knowledge of software designs, object-oriented concepts, agile development, and testing.
 
-Currently working as a Software Engineer at [Finastra](https://www.finastra.com/) focused on automating global payment processing solutions for 90 out of 100 worlds biggest banks. 
+Currently working as a Software Engineer at [Finastra](https://www.finastra.com/) focused on automating instant payment processing solutions for 90 out of 100 worlds biggest banks. 
 
 Outside work, I do a lot of personal and freelancing projects where I experiment different technologies, most primarily in the field of Mobile Development, Cloud Technologies, and DevOps/Backend Infrastructures.
 <br>
