@@ -1,7 +1,7 @@
 ---
 date: '4'
 title: 'PregGo'
-cover: 'preggo2.png'
+cover: 'preggo_feat_preview.png'
 github: ''
 external: ''
 playstore: ''

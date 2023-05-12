@@ -1,7 +1,7 @@
 ---
 date: '5'
-title: 'Guru Asana'
-cover: 'guru_asana_feat_preview.png'
+title: 'GitHub Users'
+cover: 'github_user_feat_preview.png'
 github: 'https://github.com/forceporquillo/guru-asana-android'
 external: ''
 playstore: ''
