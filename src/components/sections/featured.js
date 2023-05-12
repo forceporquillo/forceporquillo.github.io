@@ -48,7 +48,7 @@ const StyledDescription = styled.div`
   z-index: 2;
   padding: 25px;
   background-color: #ffffff;
-  color: ${colors.slate};
+  // color: ${colors.slate};
   font-size: ${fontSizes.lg};
   border-radius: ${theme.borderRadius};
   ${media.thone`
@@ -131,34 +131,34 @@ const StyledImgContainer = styled.a`
   filter: none;
   border-radius: ${theme.radius + 1}px;
   transition: ${theme.transition};
-  // ${media.tablet`height: 100%;`};
-  // ${media.thone`
-  //   grid-column: 1 / -1;
-  //   opacity: 0.25;
-  // `};
-  // &:hover,
-  // &:focus {
-  //   background: transparent;
-  //   &:before,
-  //   ${StyledFeaturedImg} {
-  //     background: transparent;
-  //     filter: none;
-  //   }
-  // }
-  // &:before {
-  //   content: '';
-  //   position: absolute;
-  //   width: 100%;
-  //   height: 100%;
-  //   top: 0;
-  //   left: 0;
-  //   right: 0;
-  //   bottom: 0;
-  //   z-index: 3;
-  //   transition: ${theme.transition};
-  //   background-color: transparent;
-  //   mix-blend-mode: screen;
-  // }
+  ${media.tablet`height: 100%;`};
+  ${media.thone`
+    grid-column: 1 / -1;
+    opacity: 0.25;
+  `};
+  &:hover,
+  &:focus {
+    background: transparent;
+    &:before,
+    ${StyledFeaturedImg} {
+      background: transparent;
+      filter: none;
+    }
+  }
+  &:before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 3;
+    transition: ${theme.transition};
+    background-color: transparent;
+    mix-blend-mode: screen;
+  }
 `;
 const StyledProject = styled.div`
   display: grid;
@@ -217,7 +217,7 @@ const Featured = ({ data }) => {
 
   return (
     <StyledContainer id="projects">
-      <Heading ref={revealTitle}>Some Things I&apos;ve Built</Heading>
+      <Heading ref={revealTitle}>Screenshots of my Work</Heading>
       <div>
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
@@ -240,7 +240,7 @@ const Featured = ({ data }) => {
                       title
                     )}
                   </StyledProjectName>
-                  <StyledDescription dangerouslySetInnerHTML={{ __html: html }} />
+                  {/* <StyledDescription dangerouslySetInnerHTML={{ __html: html }} /> */}
                   {tech && (
                     <StyledTechList>
                       {tech.map((tech, i) => (

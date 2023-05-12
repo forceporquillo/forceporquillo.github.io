@@ -16,4 +16,4 @@ tech:
 showInProjects: true
 ---
 
-🧘🤸‍♀️ A ML-based yoga app that recognizes different yoga poses utilizing lightweight CNN techniques to recognize various yoga poses. Implemented with CameraX, Google ML Kit, and MediaPipe’s GHUM3D BlazePose 3D landmark models to accurately recognize poses in real-time.
+🧘🤸‍♀️ A ML-based yoga app that recognizes different yoga poses utilizing lightweight CNN techniques to recognize various yoga poses.

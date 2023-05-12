@@ -4,12 +4,11 @@ title: 'Software Engineer'
 company: 'Finastra'
 range: 'May 2022 - Present'
 url: 'https://www.behance.net/gallery/138550555/PregGo-App'
----
+--- 
 
-- Led the delopment from designing the architectural solutions like **multi‑module**, **MVI on top of MVVM**; integrating third‑party libraries
-  such as **Android Jetpack**, **Dagger2**, **Material Design**, **LeakCanary**, **Retrofit**, **OkHttp**, **Firebase**, and **Crashlytics**.
-- Developed and optimized the core and complex UI components by breaking it into smaller chunks of custom views, **reducing the jitter and flicker effect by 80% for lower devices and below API level 23**.
-- Incharge for the maintenance of Google Cloud Platform (GCP) environment for the entire project lifecycle: **AdminSDK**, **AppEngine**, **Firestore**, **Cloud Storage**, **Firebase**, **Cron Schedulers**, and the **GCM & Cloud Engine** infrastructure.
-- Fixed and improved REST API calls by introducing a separate backend server using **Spring Boot MVC framework** on top of **Spring Cloud GCP**, which reduces the GCP billing usage by up to 27-31% per month. (**dev environment**)
-- Written both Android and backend using **Kotlin** with **Flows & Coroutines**, **RxKotlin**, and **Guava Future** APIs for parallelism and structured concurrency.
-- Collaborated with a [UI/UX designer](https://www.behance.net/maritheygraine) to build a great user experience.
+- Led the development of an instant payment system by transforming monolithic legacy codebases into containerized microservices.
+- Exceeded project requirements by designing and implementing a highly-efficient payment and message filter screening with an average latency of just <strong>250ms</strong>, surpassing the initial target of <strong>1-10 second response time</strong> and <strong>failover strategy</strong>.
+- Leveraged expertise in <strong>Spring Cloud</strong>, <strong>Kafka Streams</strong>, <strong>Avro, Docker</strong>, <strong>Kubernetes</strong>, <strong>Azure</strong>, and <strong>Redis</strong> to achieve outstanding result.
+- Implemented <strong>CI/CD</strong> test-pipelines with <strong>testcontainers</strong> to establish integration and unit-testing baseline for all IPS service modules.
+- Design, implement, and maintain mission-critical enterprise applications for real-time payments and sanctions screening.
+- Built and architected a <strong>CLI</strong> report using <strong>Shell</strong> and <strong>Java</strong> for banking customers to document and analyze filter activities for compliance screening. Generated <strong>8% revenue</strong> in the first quarter and acquired <strong>four customers</strong> upon initial release.

@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '6'
 title: 'GitHub Users'
 cover: 'github_user_feat_preview.png'
 github: 'https://github.com/forceporquillo/guru-asana-android'
@@ -16,4 +16,4 @@ tech:
 showInProjects: true
 ---
 
-🧘🤸‍♀️ A ML-based yoga app that recognizes different yoga poses utilizing lightweight CNN techniques to recognize various yoga poses. Implemented with CameraX, Google ML Kit, and MediaPipe’s GHUM3D BlazePose 3D landmark models to accurately recognize poses in real-time.
+💻🐞 A GitHub profile search app that enables users to swiftly search and view developer profiles, organizations, starred repositories, and bios, all by fetching the data from the <strong>GitHub</strong> API.
