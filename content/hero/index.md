@@ -5,14 +5,13 @@ subtitle: 'I love building things around Android and backend stuffs.'
 buttonText: 'Hire Me!'
 ---
 
-A self-motivated, performance-driven, and a detail-oriented JVM and Android enthusiast with a strong fundamental knowledge of software designs, object-oriented concepts, agile development, and testing.
+A self-motivated and detail-oriented software developer who is passionate about JVM and Android development. With a strong foundation in software design, object-oriented concepts, agile development, and testing, I strive to deliver high-performance solutions.
 
-Currently working as a Software Engineer at [Finastra](https://www.finastra.com/) focused on automating instant payment processing solutions for 90 out of 100 worlds biggest banks. 
+Currently, I work as a Software Engineer at [Finastra](https://www.finastra.com/) where I focus on automating instant payment processing solutions for 90 of 100 world's largest banks.
 
-Outside work, I do a lot of personal and freelancing projects where I experiment different technologies, most primarily in the field of Mobile Development, Cloud Technologies, and DevOps/Backend Infrastructures.
-<br>
+In my free time, I undertake personal and freelance projects to experiment with different technologies, primarily in the fields of Mobile Development, Cloud Technologies, DevOps, and Backend-related Infrastructures.
 
-Want to turn your ideas into apps?
+If you're looking to turn your ideas into apps, I'd be happy to help.
 
 <!-- 
 I also often contribute and gave back to the open-source community by contributing and engaging in a community discussion, adding PR features, submitting issues, and peer code reviews. -->

@@ -16,8 +16,8 @@ const StyledFlexContainer = styled.div`
   ${media.tablet`display: block;`};
 `;
 const StyledContent = styled.div`
-  width: 60%;
-  max-width: 480px;
+  width: 80%;
+  max-width: 580px;
   ${media.tablet`width: 100%;`};
   a {
     ${mixins.inlineLink};
@@ -25,7 +25,7 @@ const StyledContent = styled.div`
 `;
 const SkillsContainer = styled.ul`
   display: grid;
-  grid-template-columns: repeat(2, minmax(140px, 200px));
+  grid-template-columns: repeat(3, minmax(200px, 300px));
   overflow: hidden;
   padding: 0;
   margin: 20px 0 0 0;

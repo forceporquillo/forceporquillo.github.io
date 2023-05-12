@@ -3,7 +3,7 @@ date: '2020-12-14'
 title: 'Freelance Android Developer'
 company: 'F1kDaysWithU'
 range: 'December 2020 - April 2021'
-url: 'http://www.centralcoalfields.in/ind/'
+url: ''
 ---
 
 - **Led the development** from design and testing prior to app release in the Google Play Store.

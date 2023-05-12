@@ -3,31 +3,45 @@ title: 'About Me'
 avatar: 'me.jpg'
 skills:
   - Android SDK
-  - Kotlin & Java
+  - Kotlin
+  - Golang
+  - Red Hat Linux
+  - Java8/11/19 (SE & EE)
+  - Bash/Shell
   - Kotlin Coroutines
-  - RxKotlin & RxJava
-  - Android Jetpack Libraries
-  - Spring Boot MVC & Gradle
+  - RxKotlin/RxJava
+  - Jetpack Libraries
   - Gradle Kotlin DSL
-  - Firebase Services
+  - Firebase
   - Google Maps SDK
-  - Google Cloud Platform
-  - Git/Github
-  - Github Actions (CI/CD)
-  - JUnit & Mockito
-  - IntelliJ Idea
+  - Google Cloud
+  - Git/GitHub
+  - GitHub Actions
+  - GitLab (CI/CD)
+  - Jenkins (CI/CD)
+  - JUnit4/5 & Mockito
+  - IntelliJ IDEA
   - Retrofit
+  - Compose UI
   - Dagger2 & Hilt
+  - Spring/Spring Cloud
+  - Kafka Streams
+  - Redis/MongoDB
+  - Confluent
+  - Docker
+  - Kubernetes
+  - OpenShift
+  - Maven
 ---
 
-Hello! My name is Aljan, but you can also call me Force as well. I am currently a Computer Science - Software Engineering student from [FEU Institute of Technology](https://web.facebook.com/feueac). Way back from my freshmen year, 3rd semester. I got introduced to mobile development. Since then, my excitement and curiosity in building Android apps turned into a passion.
+Greetings! I go by Aljan, or Force if you prefer. My passion for software development began during my third semester as a freshman student at [FEU Institute of Technology](https://web.facebook.com/feueac) when I was first introduced to the world of Android app development. From there, my excitement and curiosity turned into a full-fledged passion.
 
-Recently, before and amidst the COVID19 pandemic. I taught myself to learn more about the Android ecosystem, lifecycles, architectures, and current trends in the Android community, such as the Jetpack Libraries. <i><small>[This also opens me to the world of becoming an open-source contributor](https://github.com/mayokunadeniyi/Instant-Weather/pull/24)</small></i>
+During the COVID-19 pandemic, I took advantage of the extra time and taught myself more about the Android ecosystem. I dove deep into topics like software design patterns, concurrency, architectures, lifecycles, and the latest trends in the Android community, such as the Jetpack libraries and Compose UI. I even started contributing to <i>[open-source projects](https://github.com/mayokunadeniyi/Instant-Weather/pull/24)</i>.
 
-Day by day, I started to develop more personal apps, which will be my training ground to sharpen my skills <i><small>(Driven by doing and hunger to learn more)</small></i> and become relevant to the Android industry.
+My dedication and hard work paid off when I landed five consecutive freelance projects, which helped me sustain my college education for an additional two years and a half before graduation. These projects gave me invaluable experience in software development and led me to acquire a full-time position before I graduated.
 
-Fast forward today, someone noticed my hard work and dedication which helped me got an offer for three consecutive freelance Android projects, which I can proudly says that I've exceeded all of my client's expectations in a span of 1 and a half year.
+Today, I am fortunate to work as a full-time software engineer while also pursuing freelance development on the side. 
 
-As of today, I am currently working as a freelance solo developer for the [PregGo](https://www.behance.net/gallery/138550555/PregGo-App) Android App.
+I also recently had the privilege of speaking at [University of San Agustin](https://usa.edu.ph/) for the [Google Student Developer Clubs](https://www.facebook.com/photo/?fbid=158422026947851&set=pcb.158422076947846), where I shared my knowledge of [Using Firebase in Android Apps](https://speakerdeck.com/forceporquillo/introducing-firebase-in-android-apps) along with one of the famous youtuber for Android development [Stevdza San](https://www.youtube.com/@StevdzaSan).
 
-If you are wondering what techonologies I've used, here are the list of technologies that I've implemented primarily on my freelancing projects and personal projects!
+Here are the technologies I've used for my freelancing, full-time, and personal projects, in case you are wondering:

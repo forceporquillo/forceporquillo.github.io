@@ -46,7 +46,7 @@ const StyledSubtitle = styled.h3`
 const StyledDescription = styled.div`
   margin-top: 25px;
   width: 50%;
-  max-width: 500px;
+  max-width: 700px;
   a {
     ${mixins.inlineLink};
   }
