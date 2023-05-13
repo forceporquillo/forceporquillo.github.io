@@ -12,9 +12,8 @@ tech:
   - Navigation
   - Retrofit
   - Coil
-  - Dagger Hilt
-  - MVVM
+  - Dagger2/Hilt
 showInProjects: true
 ---
 
-🚲 An e-Commerce Android application for bikes, equipment, and accessories for the MBR online bike shop. Implemented using the MVVM architecture, Repository pattern + UseCases, Navigation, Hilt, Room, Retrofit, OkHttp, Coil, and CookieJar.
+🚲 An e-Commerce Android application for bikes, equipment, and accessories for the MBR online bike shop.

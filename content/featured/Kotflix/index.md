@@ -1,5 +1,5 @@
 ---
-date: '6'
+date: '8'
 title: 'Kotflix'
 cover: 'kotflix.png'
 github: ''
@@ -7,15 +7,12 @@ external: ''
 playstore: ''
 tech:
   - Kotlin
-  - MVVM
   - LiveData
   - Paging2
   - Retrofit
   - TMDB API
   - Dagger2
   - Coroutines
-  - LeakCanary
-  - Navigation
   - ExoPlayer
   - Youtube Player
 showInProjects: true

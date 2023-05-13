@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2020-11-28'
 title: 'F1KDaysWithU'
 cover: 'f1kgraphics.png'
 github: ''
@@ -16,5 +16,3 @@ showInProjects: true
 ---
 
 🤰 Development and Pilot Testing of an Android Mobile Application on the First 1000 Days of Life to Improve Maternal and Infant Nutrition.
-<br><br>
-Implemented using the MVVM architecture, Repository Pattern, Dagger2, Retrofit, Firebase, and Google & Facebook SDK.

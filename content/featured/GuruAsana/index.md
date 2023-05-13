@@ -3,7 +3,7 @@ date: '5'
 title: 'Guru Asana'
 cover: 'guru_asana_feat_preview.png'
 github: 'https://github.com/forceporquillo/guru-asana-android'
-external: ''
+external: 'https://colab.research.google.com/drive/1q3mcN0UACmRw8kkGsh_Tl6idbw9iAAds#scrollTo=QBVyanN2Ic4W'
 playstore: ''
 tech:
   - Kotlin
@@ -16,4 +16,4 @@ tech:
 showInProjects: true
 ---
 
-🧘🤸‍♀️ A ML-based yoga app that recognizes different yoga poses utilizing lightweight CNN techniques to recognize various yoga poses. Implemented with CameraX, Google ML Kit, and MediaPipe’s GHUM3D BlazePose 3D landmark models to accurately recognize poses in real-time.
+🧘🤸‍♀️ A ML-based yoga app that recognizes different yoga poses utilizing lightweight CNN techniques to recognize various yoga poses.

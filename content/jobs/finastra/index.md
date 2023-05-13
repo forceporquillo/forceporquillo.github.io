@@ -1,15 +1,16 @@
 ---
-date: '2022-16-06'
+date: '2022-9-09'
 title: 'Software Engineer'
 company: 'Finastra'
 range: 'May 2022 - Present'
-url: 'https://www.behance.net/gallery/138550555/PregGo-App'
----
+url: 'https://www.finastra.com/'
+--- 
 
-- Led the delopment from designing the architectural solutions like **multi‑module**, **MVI on top of MVVM**; integrating third‑party libraries
-  such as **Android Jetpack**, **Dagger2**, **Material Design**, **LeakCanary**, **Retrofit**, **OkHttp**, **Firebase**, and **Crashlytics**.
-- Developed and optimized the core and complex UI components by breaking it into smaller chunks of custom views, **reducing the jitter and flicker effect by 80% for lower devices and below API level 23**.
-- Incharge for the maintenance of Google Cloud Platform (GCP) environment for the entire project lifecycle: **AdminSDK**, **AppEngine**, **Firestore**, **Cloud Storage**, **Firebase**, **Cron Schedulers**, and the **GCM & Cloud Engine** infrastructure.
-- Fixed and improved REST API calls by introducing a separate backend server using **Spring Boot MVC framework** on top of **Spring Cloud GCP**, which reduces the GCP billing usage by up to 27-31% per month. (**dev environment**)
-- Written both Android and backend using **Kotlin** with **Flows & Coroutines**, **RxKotlin**, and **Guava Future** APIs for parallelism and structured concurrency.
-- Collaborated with a [UI/UX designer](https://www.behance.net/maritheygraine) to build a great user experience.
+- Led the development of an instant payment system by converting a monolithic codebase into a set of event-driven, containerized microservices.
+- Leveraged expertise in **Java**, **Go**, **Shell**, **Spring Cloud**, **Kafka Streams**, **Avro, Docker**, **Kubernetes**, **Azure**, and **Redis** to achieve outstanding result.
+- Exceeded project requirements by designing and implementing a highly-efficient payment and message filter screening with an average latency of just **250ms**, surpassing the initial target of **1-10 second response time** and **failover strategy**.
+- Implemented **CI/CD** test-pipelines with **testcontainers** and **google-jib** to establish integration and unit-testing baseline for all IPS service modules within a containerized environment.
+- Design, implement, and maintain mission-critical enterprise applications for real-time payments and sanctions screening.
+- Built and architected a **CLI** report using **Shell** and **Java** for banking customers to document and analyze filter activities for compliance screening. Generated **5% increase in revenue** in the first quarter and acquired **four customers** upon initial release.
+- Provided ongoing maintenance and support for the legacy product interporate and integrate a with new instant payment system.
+- Collaborated with **cross-functional teams** to quickly identify and address **hotfix/production issues**, minimizing **impact to customers** and ensuring **system stability**.
