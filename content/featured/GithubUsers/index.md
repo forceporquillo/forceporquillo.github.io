@@ -2,7 +2,7 @@
 date: '6'
 title: 'GitHub Users'
 cover: 'github_user_feat_preview.png'
-github: 'https://github.com/forceporquillo/guru-asana-android'
+github: 'https://github.com/forceporquillo/hov-mvi-android'
 external: ''
 playstore: ''
 tech:
@@ -16,4 +16,4 @@ tech:
 showInProjects: true
 ---
 
-💻🐞 A GitHub profile search app that enables users to swiftly search and view developer profiles, organizations, starred repositories, and bios, all by fetching the data from the <strong>GitHub</strong> API.
+💻🐞 A GitHub profile search app that enables users to swiftly search and view developer profiles, organizations, starred repositories, and bios, all by fetching the data from the **GitHub** API.

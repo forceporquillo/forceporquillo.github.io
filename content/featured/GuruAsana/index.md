@@ -3,7 +3,7 @@ date: '5'
 title: 'Guru Asana'
 cover: 'guru_asana_feat_preview.png'
 github: 'https://github.com/forceporquillo/guru-asana-android'
-external: ''
+external: 'https://colab.research.google.com/drive/1q3mcN0UACmRw8kkGsh_Tl6idbw9iAAds#scrollTo=QBVyanN2Ic4W'
 playstore: ''
 tech:
   - Kotlin
